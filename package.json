@@ -1,0 +1,19 @@
+{
+  "name": "webrtchat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aikutto/webrtchat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aikutto/webrtchat/issues"
+  },
+  "homepage": "https://github.com/aikutto/webrtchat#readme"
+}
